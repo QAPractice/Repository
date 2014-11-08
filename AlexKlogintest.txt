@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This is what I made too.
-=======
-This is what I made it
->>>>>>> origin/master
