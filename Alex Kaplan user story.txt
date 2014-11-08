@@ -1,0 +1,2 @@
+As user of Notepad i want opening files from CD discs.
+As Notepad user, i want updating this program automaticly.
