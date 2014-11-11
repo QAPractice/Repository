@@ -1,1 +1,1 @@
-AS user I want to write on cansol
+As a user I want to write to the console
