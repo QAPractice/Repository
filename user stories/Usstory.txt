@@ -1,0 +1,1 @@
+As a user of notepad I should be able to write file in PDF-format.
