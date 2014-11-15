@@ -1,0 +1,1 @@
+If user choose in the Menu Title 'Print' it should be offered options for print.
